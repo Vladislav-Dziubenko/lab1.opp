@@ -1,2 +1,2 @@
-# lab1.opp
+# lab1.py
 laba 1
