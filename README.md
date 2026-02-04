@@ -1,2 +1,2 @@
-# lab1.py
+# lab1.c++
 laba 1
